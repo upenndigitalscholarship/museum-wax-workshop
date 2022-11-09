@@ -20,8 +20,8 @@
 
 title:            'Penn Museum Highlights'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://upenndigitalscholarship.github.io'
+baseurl:          '/museum-wax-workshop'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 

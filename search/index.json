@@ -11,7 +11,7 @@ layout: none
     "culture": "Edo (Africa)",
     "_date": "19th century CE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj1/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj1/full/250,/0/default.jpg",
     "permalink": "/museum/obj1",
     "lunr_id": 0
   },
@@ -24,7 +24,7 @@ layout: none
     "culture": null,
     "_date": "19th century CE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj10/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj10/full/250,/0/default.jpg",
     "permalink": "/museum/obj10",
     "lunr_id": 1
   },
@@ -37,7 +37,7 @@ layout: none
     "culture": "Chinese|Buddhist",
     "_date": "10th century",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj11/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj11/full/250,/0/default.jpg",
     "permalink": "/museum/obj11",
     "lunr_id": 2
   },
@@ -50,7 +50,7 @@ layout: none
     "culture": "Ainu",
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj12/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg",
     "permalink": "/museum/obj12",
     "lunr_id": 3
   },
@@ -63,7 +63,7 @@ layout: none
     "culture": null,
     "_date": "2500-2340 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj13/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj13/full/250,/0/default.jpg",
     "permalink": "/museum/obj13",
     "lunr_id": 4
   },
@@ -76,7 +76,7 @@ layout: none
     "culture": null,
     "_date": "ca. 1500 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj14/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj14/full/250,/0/default.jpg",
     "permalink": "/museum/obj14",
     "lunr_id": 5
   },
@@ -89,7 +89,7 @@ layout: none
     "culture": null,
     "_date": "1900-1600 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj15/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj15/full/250,/0/default.jpg",
     "permalink": "/museum/obj15",
     "lunr_id": 6
   },
@@ -102,7 +102,7 @@ layout: none
     "culture": null,
     "_date": "1293-1185 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj16/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj16/full/250,/0/default.jpg",
     "permalink": "/museum/obj16",
     "lunr_id": 7
   },
@@ -115,7 +115,7 @@ layout: none
     "culture": null,
     "_date": "570 - 526 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj17/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj17/full/250,/0/default.jpg",
     "permalink": "/museum/obj17",
     "lunr_id": 8
   },
@@ -128,7 +128,7 @@ layout: none
     "culture": "Ptolemaic|Roman",
     "_date": "post 300 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj18/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj18/full/250,/0/default.jpg",
     "permalink": "/museum/obj18",
     "lunr_id": 9
   },
@@ -141,7 +141,7 @@ layout: none
     "culture": null,
     "_date": "1938-1630 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj19/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj19/full/250,/0/default.jpg",
     "permalink": "/museum/obj19",
     "lunr_id": 10
   },
@@ -154,7 +154,7 @@ layout: none
     "culture": null,
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj2/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj2/full/250,/0/default.jpg",
     "permalink": "/museum/obj2",
     "lunr_id": 11
   },
@@ -167,7 +167,7 @@ layout: none
     "culture": "Bronze Age",
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj20/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj20/full/250,/0/default.jpg",
     "permalink": "/museum/obj20",
     "lunr_id": 12
   },
@@ -180,7 +180,7 @@ layout: none
     "culture": "Hallstatt Culture|Western European",
     "_date": "1199-700 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj21/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj21/full/250,/0/default.jpg",
     "permalink": "/museum/obj21",
     "lunr_id": 13
   },
@@ -193,7 +193,7 @@ layout: none
     "culture": "Greek",
     "_date": "405-345 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj22/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj22/full/250,/0/default.jpg",
     "permalink": "/museum/obj22",
     "lunr_id": 14
   },
@@ -206,7 +206,7 @@ layout: none
     "culture": "Faliscan|Etruscan",
     "_date": "725-700 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj23/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj23/full/250,/0/default.jpg",
     "permalink": "/museum/obj23",
     "lunr_id": 15
   },
@@ -219,7 +219,7 @@ layout: none
     "culture": "Greek|Etruscan",
     "_date": "540-530 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj24/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj24/full/250,/0/default.jpg",
     "permalink": "/museum/obj24",
     "lunr_id": 16
   },
@@ -232,7 +232,7 @@ layout: none
     "culture": "Graeco-Roman",
     "_date": "1600-1699",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj25/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj25/full/250,/0/default.jpg",
     "permalink": "/museum/obj25",
     "lunr_id": 17
   },
@@ -245,7 +245,7 @@ layout: none
     "culture": null,
     "_date": "2450 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj26/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj26/full/250,/0/default.jpg",
     "permalink": "/museum/obj26",
     "lunr_id": 18
   },
@@ -258,7 +258,7 @@ layout: none
     "culture": null,
     "_date": "2600-2450 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj27/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj27/full/250,/0/default.jpg",
     "permalink": "/museum/obj27",
     "lunr_id": 19
   },
@@ -271,7 +271,7 @@ layout: none
     "culture": null,
     "_date": "ca. 2450 BCE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj28/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj28/full/250,/0/default.jpg",
     "permalink": "/museum/obj28",
     "lunr_id": 20
   },
@@ -284,7 +284,7 @@ layout: none
     "culture": "Roman",
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj29/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj29/full/250,/0/default.jpg",
     "permalink": "/museum/obj29",
     "lunr_id": 21
   },
@@ -297,7 +297,7 @@ layout: none
     "culture": "Vili",
     "_date": "Late 19th–Early 20th century CE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj3/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj3/full/250,/0/default.jpg",
     "permalink": "/museum/obj3",
     "lunr_id": 22
   },
@@ -310,7 +310,7 @@ layout: none
     "culture": "Hawaiian",
     "_date": "19th Century",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj30/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj30/full/250,/0/default.jpg",
     "permalink": "/museum/obj30",
     "lunr_id": 23
   },
@@ -323,7 +323,7 @@ layout: none
     "culture": "Javanese",
     "_date": "Before 1929",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj31/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj31/full/250,/0/default.jpg",
     "permalink": "/museum/obj31",
     "lunr_id": 24
   },
@@ -336,7 +336,7 @@ layout: none
     "culture": "Kayan",
     "_date": "Before 1897",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj32/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj32/full/250,/0/default.jpg",
     "permalink": "/museum/obj32",
     "lunr_id": 25
   },
@@ -349,7 +349,7 @@ layout: none
     "culture": null,
     "_date": "1910-1913",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj33/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj33/full/250,/0/default.jpg",
     "permalink": "/museum/obj33",
     "lunr_id": 26
   },
@@ -362,7 +362,7 @@ layout: none
     "culture": "Bushongo",
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj4/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj4/full/250,/0/default.jpg",
     "permalink": "/museum/obj4",
     "lunr_id": 27
   },
@@ -375,7 +375,7 @@ layout: none
     "culture": "Mayan",
     "_date": "8th century",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj5/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj5/full/250,/0/default.jpg",
     "permalink": "/museum/obj5",
     "lunr_id": 28
   },
@@ -388,7 +388,7 @@ layout: none
     "culture": "Chavin",
     "_date": null,
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj6/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj6/full/250,/0/default.jpg",
     "permalink": "/museum/obj6",
     "lunr_id": 29
   },
@@ -401,7 +401,7 @@ layout: none
     "culture": "Mandan",
     "_date": "early 19th century",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj7/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj7/full/250,/0/default.jpg",
     "permalink": "/museum/obj7",
     "lunr_id": 30
   },
@@ -414,7 +414,7 @@ layout: none
     "culture": "Cayuga",
     "_date": "19th century",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj8/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj8/full/250,/0/default.jpg",
     "permalink": "/museum/obj8",
     "lunr_id": 31
   },
@@ -427,7 +427,7 @@ layout: none
     "culture": "Chinese",
     "_date": "649 CE",
     "collection": "museum",
-    "thumbnail": "/img/derivatives/simple/obj9/thumbnail.jpg",
+    "thumbnail": "/img/derivatives/iiif/images/obj9/full/250,/0/default.jpg",
     "permalink": "/museum/obj9",
     "lunr_id": 32
   }

@@ -42,6 +42,7 @@ source: https://www.penn.museum/collections/object.php?irn=183210
 order: '11'
 layout: qatar_item
 collection: museum
-thumbnail: "/img/derivatives/simple/obj12/thumbnail.jpg"
-full: "/img/derivatives/simple/obj12/fullwidth.jpg"
+thumbnail: "/img/derivatives/iiif/images/obj12/full/250,/0/default.jpg"
+full: "/img/derivatives/iiif/images/obj12/full/1140,/0/default.jpg"
+manifest: "/img/derivatives/iiif/obj12/manifest.json"
 ---
