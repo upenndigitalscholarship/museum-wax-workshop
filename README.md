@@ -1,3 +1,7 @@
+This repository was used for Fall 2022 workshop, "Build a Digital Exhibit with Wax." See the RDDS Box Folder for workshop notes. 
+
+This repository has been made private at the Penn Museum's request. If someone wants to use this repository/data again, please follow up with Jessica Milby. 
+
 # minicomp/wax 🐝
 
 [![Gem Version](https://badge.fury.io/rb/wax_theme.svg)](https://badge.fury.io/rb/wax_tasks)
